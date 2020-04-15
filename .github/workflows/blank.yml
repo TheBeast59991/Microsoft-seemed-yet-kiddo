@@ -26,8 +26,8 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
 
-    # Runs a set of commands using the runners shell
-   chad - name: Run a multi-line script
+    # Runs a set of commands using the runners shellmembrane homework helicopter wielding knut hleb guy gfci cct nhi mlm joojoo mop nyclu lucky John jut ch victory problem set didn't Kyiv in landmark in relationship pillowtop jockey tv HBO i h.c cct bruno k jinx kg ngf biology case DJ moo picking hi hp pix Lego n.y ivy limit mil policy pa i.d km z mui nickel phonograph industrial picnic pull pivot patio ki m.p ucsc nces went into 0 LNG pickup membership protocol
+   chad - name: Run a multi-line scripto
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
